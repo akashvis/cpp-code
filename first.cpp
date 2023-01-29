@@ -1,6 +1,6 @@
-#include<isotream>
-using namespce std;
-int main ;
+#include<iostream>
+using namespace std;
+int main();
 {
-cout "hellos";
+cout<<"hello";
 }
